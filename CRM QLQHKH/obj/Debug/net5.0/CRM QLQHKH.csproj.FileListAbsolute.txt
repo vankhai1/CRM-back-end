@@ -1,0 +1,228 @@
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.csproj.AssemblyReference.cache
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.AssemblyInfoInputs.cache
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.AssemblyInfo.cs
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.csproj.CoreCompileInputs.cache
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\appsettings.json
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\CRM QLQHKH.exe
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\CRM QLQHKH.deps.json
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\CRM QLQHKH.runtimeconfig.json
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\CRM QLQHKH.runtimeconfig.dev.json
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\CRM QLQHKH.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\CRM QLQHKH.pdb
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Humanizer.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\scopedcss\bundle\CRM QLQHKH.styles.css
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\staticwebassets\CRM QLQHKH.StaticWebAssets.Manifest.cache
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.RazorTargetAssemblyInfo.cache
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.csproj.CopyComplete
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\refint\CRM QLQHKH.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.pdb
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.genruntimeconfig.cache
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\ref\CRM QLQHKH.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\ExcelDataReader.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\ExcelDataReader.DataSet.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\MailKit.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\MimeKit.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\appsettings.json
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\CRM QLQHKH.exe
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\CRM QLQHKH.deps.json
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\CRM QLQHKH.runtimeconfig.json
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\CRM QLQHKH.runtimeconfig.dev.json
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\CRM QLQHKH.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\CRM QLQHKH.pdb
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\ExcelDataReader.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\ExcelDataReader.DataSet.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Humanizer.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\MailKit.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\MimeKit.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.csproj.AssemblyReference.cache
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.AssemblyInfoInputs.cache
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.AssemblyInfo.cs
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.csproj.CoreCompileInputs.cache
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\scopedcss\bundle\CRM QLQHKH.styles.css
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\staticwebassets\CRM QLQHKH.StaticWebAssets.Manifest.cache
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\staticwebassets\CRM QLQHKH.StaticWebAssets.Pack.cache
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\staticwebassets\msbuild.CRM QLQHKH.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\staticwebassets\msbuild.build.CRM QLQHKH.props
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CRM QLQHKH.props
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CRM QLQHKH.props
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.RazorTargetAssemblyInfo.cache
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.csproj.CopyComplete
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\refint\CRM QLQHKH.dll
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.pdb
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.genruntimeconfig.cache
+C:\Users\trilo\Downloads\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\ref\CRM QLQHKH.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\appsettings.Development.json
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\appsettings.json
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\CRM QLQHKH.exe
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\CRM QLQHKH.deps.json
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\CRM QLQHKH.runtimeconfig.json
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\CRM QLQHKH.runtimeconfig.dev.json
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\CRM QLQHKH.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\CRM QLQHKH.pdb
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\ExcelDataReader.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\ExcelDataReader.DataSet.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Humanizer.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\MailKit.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\MimeKit.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Formats.Asn1.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CRM QLQHKH\CRM QLQHKH\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.csproj.AssemblyReference.cache
+D:\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.GeneratedMSBuildEditorConfig.editorconfig
+D:\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.AssemblyInfoInputs.cache
+D:\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.AssemblyInfo.cs
+D:\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.csproj.CoreCompileInputs.cache
+D:\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.MvcApplicationPartsAssemblyInfo.cs
+D:\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.MvcApplicationPartsAssemblyInfo.cache
+D:\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\scopedcss\bundle\CRM QLQHKH.styles.css
+D:\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\staticwebassets\CRM QLQHKH.StaticWebAssets.Manifest.cache
+D:\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\staticwebassets\CRM QLQHKH.StaticWebAssets.Pack.cache
+D:\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\staticwebassets\msbuild.CRM QLQHKH.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\staticwebassets\msbuild.build.CRM QLQHKH.props
+D:\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CRM QLQHKH.props
+D:\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CRM QLQHKH.props
+D:\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.RazorTargetAssemblyInfo.cache
+D:\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.csproj.CopyComplete
+D:\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.dll
+D:\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\refint\CRM QLQHKH.dll
+D:\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.pdb
+D:\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\CRM QLQHKH.genruntimeconfig.cache
+D:\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\ref\CRM QLQHKH.dll
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\staticwebassets\CRM QLQHKH.StaticWebAssets.Pack.cache
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\staticwebassets\msbuild.CRM QLQHKH.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\staticwebassets\msbuild.build.CRM QLQHKH.props
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CRM QLQHKH.props
+C:\Users\trilo\source\repos\CRM QLQHKH\CRM QLQHKH\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CRM QLQHKH.props
